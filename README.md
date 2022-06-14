@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My name is Vladislav and am a Python developer.
+I use `Python 3`, `Django`, `FastAPI`, `DjangoRestFramework`, `SQLAlchemy`, `Docker`, `NGINX` etc.
+Here are some my projects.
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=Xewus)

@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! My name is Vladislav and am a Python developer.
-I use:
+
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+/n
 ![](https://komarev.com/ghpvc/?username=Xewus)

@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Vladislav and am a Python developer.    
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/PYTHON-blue)
+![](https://img.shields.io/badge/Django-yellowgreen)
+![](https://img.shields.io/badge/-FastAPI-yellowgreen)
        
 ![](https://komarev.com/ghpvc/?username=Xewus)

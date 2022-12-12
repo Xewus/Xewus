@@ -20,6 +20,6 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/FastAPI-green)
 ![](https://img.shields.io/badge/Scrapy-green)
-![](https://img.shields.io/badge/-SQLAlchemy-green)
+![](https://img.shields.io/badge/-SQLAlchemy-orange)
        
 ![](https://komarev.com/ghpvc/?username=Xewus)

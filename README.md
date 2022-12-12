@@ -27,8 +27,8 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/-SQLAlchemy-orange)
 ![](https://img.shields.io/badge/-Tortoise-orange)
 ![](https://img.shields.io/badge/-Pony-orange)
+![](https://img.shields.io/badge/-Docker-red)
 ![](https://img.shields.io/badge/-Nginx-red)
 ![](https://img.shields.io/badge/-Linux-red)
-![](https://img.shields.io/badge/-Docker-red)
        
 ![](https://komarev.com/ghpvc/?username=Xewus)

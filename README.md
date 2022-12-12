@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 My name is Vladislav and am a Python developer.    
 
 ![](https://img.shields.io/badge/PYTHON-blue)
-![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/FastAPI-green)
+![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/Scrapy-green)
+![](https://img.shields.io/badge/Sanic-green)
+![](https://img.shields.io/badge/Flask-green)
 ![](https://img.shields.io/badge/-SQLAlchemy-orange)
        
 ![](https://komarev.com/ghpvc/?username=Xewus)

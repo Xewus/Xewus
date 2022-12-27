@@ -19,18 +19,26 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/HTML-blue)
 ![](https://img.shields.io/badge/SQL-blue)
+
+
 ![](https://img.shields.io/badge/FastAPI-green)
 ![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/Scrapy-green)
 ![](https://img.shields.io/badge/Sanic-green)
 ![](https://img.shields.io/badge/Flask-green)
+
+
 ![](https://img.shields.io/badge/-SQLAlchemy-orange)
 ![](https://img.shields.io/badge/-Tortoise-orange)
 ![](https://img.shields.io/badge/-Pony-orange)
+
+
 ![](https://img.shields.io/badge/-Docker-red)
 ![](https://img.shields.io/badge/-Nginx-red)
 ![](https://img.shields.io/badge/-Linux-red)
-       
-![](https://komarev.com/ghpvc/?username=Xewus)
+ 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xewus)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=Xewus)

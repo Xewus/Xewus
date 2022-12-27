@@ -32,3 +32,5 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/-Linux-red)
        
 ![](https://komarev.com/ghpvc/?username=Xewus)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xewus)](https://github.com/anuraghazra/github-readme-stats)

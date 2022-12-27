@@ -37,6 +37,13 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/-Nginx-red)
 ![](https://img.shields.io/badge/-Linux-red)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xewus&show_icons=true&theme=tokyonight&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xewus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

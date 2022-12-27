@@ -37,12 +37,15 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/-Nginx-red)
 ![](https://img.shields.io/badge/-Linux-red)
 
+
 <a href="https://github.com/Xewus">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xewus&show_icons=true&theme=tokyonight&hide_title=true" />
 </a>
+<!--
 <a href="https://github.com/Xewus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xewus&layout=compact&theme=tokyonight" />
 </a>
+-->
 
 
 ![](https://komarev.com/ghpvc/?username=Xewus)

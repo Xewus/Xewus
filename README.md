@@ -40,5 +40,7 @@ My name is Vladislav and am a Python developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xewus)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xewus&show_icons=true)
+
 
 ![](https://komarev.com/ghpvc/?username=Xewus)

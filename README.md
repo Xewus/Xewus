@@ -40,12 +40,9 @@ My name is Vladislav and am a Python developer.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xewus&show_icons=true&theme=tokyonight&hide_title=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xewus&layout=compact&theme=tokyonight" />
 </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xewus&show_icons=true&theme=tokyonight&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xewus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Xewus)

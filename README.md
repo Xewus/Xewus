@@ -19,7 +19,7 @@ My name is Vladislav and am a Python developer.
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/SQL-blue)
 ![](https://img.shields.io/badge/HTML-blue)
-![](https://img.shields.io/badge/SCC-blue)
+![](https://img.shields.io/badge/CSS-blue)
 
 
 ![](https://img.shields.io/badge/FastAPI-green)

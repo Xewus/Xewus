@@ -35,6 +35,7 @@ My name is Vladislav and am a Python developer.
 
 
 ![](https://img.shields.io/badge/-Docker-red)
+![](https://img.shields.io/badge/-k8s-red)
 ![](https://img.shields.io/badge/-Nginx-red)
 ![](https://img.shields.io/badge/-Linux-red)
 
